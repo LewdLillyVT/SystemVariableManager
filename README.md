@@ -104,7 +104,7 @@ For system environment variables, administrator privileges are required:
 ### Command Line Usage
 ```bash
 # Launch with a pre-selected configuration file
-env-var-manager.exe "path\to\config.yaml"
+SystemVariableManager.exe "path\to\config.yaml"
 ```
 
 ## Examples
